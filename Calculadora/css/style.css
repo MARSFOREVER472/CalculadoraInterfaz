@@ -8,3 +8,12 @@ input {
     border-radius: 5px;
     padding-left: 10px;
 }
+
+input:focus {
+    border-radius: 25px;
+    /* outline-width: 0; */
+    outline: none;
+    padding-left: 10px;
+    background: rgba(25, 25, 25, 0.2);
+    color: white;
+}
