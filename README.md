@@ -5,7 +5,7 @@
 - **_Crea una calculadora que realiza operaciones matemáticas sencillas en Javascript._**
 - **_Cómo programar en Javascript | Crea una calculadora que realiza operaciones aritméticas utilizando el lenguaje de programación Javascript._**
 
-En este proyecto, se muestra cómo desarrollar el código fuente de una calculadora que realiza las siguientes operaciones aritméticas: sumar, restar, dividir, multiplicar. Lo hacemos desde cero, empleando las tecnologías de un desarrollador Front-End, como HTML y CSS y nos centraremos principalmente en el desarrollo del código fuente Javascript.
+- En este proyecto, se muestra cómo desarrollar el código fuente de una calculadora que realiza las siguientes operaciones aritméticas: sumar, restar, dividir, multiplicar. Lo hacemos desde cero, empleando las tecnologías de un desarrollador Front-End, como HTML y CSS y nos centraremos principalmente en el desarrollo del código fuente Javascript.
 
 En nuestra aplicación, tenemos una interfaz gráfica sencilla, creada con HTML, CSS y Javascript. En esa interfaz gráfica, el usuario tiene que introducir 2 números y luego, tendrá que seleccionar, desde un menú despegable, qué operación matemática desea que la calculadora realice. 
 
