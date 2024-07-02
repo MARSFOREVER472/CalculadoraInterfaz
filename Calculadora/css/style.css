@@ -31,3 +31,12 @@ input:focus {
     box-shadow: 0 15px 25px rgba(0, 0, 0, 0.5);
     border-radius: 10px;
 }
+
+.selec {
+    padding: 5px;
+    margin-bottom: 80px;
+}
+
+.final_result {
+    margin: 10px;
+}
