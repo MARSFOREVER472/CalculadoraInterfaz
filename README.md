@@ -11,6 +11,7 @@
 - **_This project shows how to develop the source code for a calculator that performs the following arithmetic operations to add, subtract, divide and multiply numbers._**
   
 - **_We are going to do it from scratch, using the technologies of a Front-End developer, such as HTML and CSS and we will focus mainly on the development of the Javascript source code._**
+  
 - **_In our application, we have a simple graphical interface, created with HTML, CSS and Javascript. In this graphical interface, the user has to enter 2 numbers and then will have to select, from a drop-down menu, what mathematical operation they want the calculator to perform._**
 - **_In this operation, we will have to control the events produced by the user, as well as capture the data (numbers) that the user enters when using our application._**
 - **_This project is ideal for those people who want to learn how to create their own programs or applications, using the Javascript programming language._**
