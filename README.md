@@ -5,7 +5,7 @@
 ## _How to create your own programs/applications in Javascript!_
 
 - **_Create a calculator that performs simple math operations in Javascript._**
-- _How to program in Javascript | Create a calculator that performs arithmetic operations using the Javascript programming language._
+- **_How to program in Javascript | Create a calculator that performs arithmetic operations using the Javascript programming language._**
 ## _Cómo crear tus propios programas/aplicaciones en Javascript!_
 - **_Crea una calculadora que realiza operaciones matemáticas sencillas en Javascript._**
 - **_Cómo programar en Javascript | Crea una calculadora que realiza operaciones aritméticas utilizando el lenguaje de programación Javascript._**
