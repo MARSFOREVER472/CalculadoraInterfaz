@@ -1,6 +1,6 @@
 # _CalculadoraInterfaz_
 
-**_Calculadora con interfaz gráfica mediante herramientas para un desarrollador Front-end!_**
+**_Calculadora con interfaz gráfica mediante herramientas para un desarrollador Front-End!_**
 
 ## _How to create your own programs/applications using Javascript!_
 
