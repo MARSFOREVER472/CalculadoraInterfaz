@@ -20,7 +20,7 @@
   
 ## _Cómo crear tus propios programas/aplicaciones utilizando Javascript!_
 
-- **_Crea tu calculadora que realiza operaciones matemáticas sencillas en Javascript._**
+- **_Crea tu propia calculadora que realiza operaciones matemáticas sencillas en Javascript._**
  
 - **_Cómo programar en Javascript | Crea tu propia calculadora que realiza operaciones aritméticas utilizando Javascript._**
 
