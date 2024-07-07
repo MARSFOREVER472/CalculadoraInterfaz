@@ -31,5 +31,5 @@
 - **_En nuestra aplicación, tenemos una interfaz gráfica sencilla, creada con HTML, CSS y Javascript. En esa interfaz gráfica, el usuario tiene que introducir 2 números y luego, tendrá que seleccionar, desde un menú despegable, qué operación matemática desea que la calculadora realice._**
   
 - **_En esta operación, tendremos que controlar los eventos controlados por el usuario, así como capturar los datos (valores) que introduzca el usuario al utilizar nuestra aplicación._**
-- 
+  
 - **_Este proyecto es ideal para aquellas personas que desean aprender a crear sus propios programas o aplicaciones, utilizando el lenguaje de programación Javascript._**
