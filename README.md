@@ -6,7 +6,7 @@
 
 - **_Create a calculator that performs simple math operations in Javascript._**
   
-- **_How to program in Javascript | Create a calculator that performs arithmetic operations using the Javascript programming language._**
+- **_How to program in Javascript | Create a calculator that performs arithmetic operations using the Javascript language._**
   
 - **_This project shows how to develop the source code for a calculator that performs the following arithmetic operations to add, subtract, divide and multiply numbers._**
   
