@@ -2,7 +2,6 @@
 
 **_Calculadora con interfaz gráfica mediante herramientas para un desarrollador Front-end!_**
 
-
 ## _How to create your own programs/applications in Javascript!_
 
 - **_Create a calculator that performs simple math operations in Javascript._**
