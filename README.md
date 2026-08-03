@@ -20,7 +20,7 @@
 
 **_Traducido del español:_**
   
-## _Cómo crear tus propios programas/aplicaciones utilizando Javascript!_
+### **_Cómo crear tus propios programas/aplicaciones utilizando Javascript!_**
 
 - **_Crea tu propia calculadora que realiza operaciones matemáticas sencillas en Javascript._**
  
