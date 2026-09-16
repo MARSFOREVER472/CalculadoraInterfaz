@@ -6,7 +6,7 @@
 
 - **_Crea tu propia calculadora que realiza operaciones matemáticas sencillas en Javascript._**
  
-- **_Cómo programar usando Javascript._**
+- **_Cómo programar utilizando Javascript._**
 
 - **_En este proyecto, se visualiza a cómo desarrollar el código fuente de una calculadora que realiza las siguientes operaciones aritméticas para sumar, restar, dividir y multiplicar valores._**
   
