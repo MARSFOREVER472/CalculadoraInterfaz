@@ -10,7 +10,7 @@
 
 - **_En este proyecto, se visualiza a cómo desarrollar el código fuente de una calculadora que realiza las siguientes operaciones aritméticas para sumar, restar, dividir y multiplicar valores._**
   
-- **_Lo vamos a hacer desde cero, empleando las tecnologías de un desarrollador Front-End, tales como HTML y CSS y nos centraremos principalmente en el desarrollo del código fuente utilizando Javascript._**
+- **_Lo vamos a hacer desde 0, empleando las tecnologías de un desarrollador Front-End, tales como HTML y CSS y nos centraremos principalmente en el desarrollo del código fuente utilizando Javascript._**
  
 - **_En nuestra aplicación, tenemos una interfaz gráfica sencilla, creada con HTML, CSS y Javascript. En esa interfaz gráfica, el usuario tiene que ingresar 2 números y luego, tendrá que seleccionar, desde un menú despegable, qué operación matemática desea que la calculadora realice._**
   
